@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: green;
+  width: 100%;
+  margin-top: 0;
+  height: 130px;
+}
+
+.navbar {
+  text-align: left;
+  width: 100%;
+  border: 4px;
+  padding: 20px;
+  background-color: grey;
+  position: absolute;
+  top: 150px;
+}
+.section1 {
+  width: 50%;
+  padding: 50px;
+  margin: 20px;
+}
+.section2 {
+  width: 25%;
+  padding: 50px;
+  margin: 20px;
+  position: absolute;
+  left: 600px;
+  top: 150px;
+}
+.footer {
+  width: 100%;
+  background-color: gray;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
+  position: absolute; top: 1000px;
+  text-align: center;
+}
+.navb {
+  text-align: center;
+}
